@@ -1,4 +1,4 @@
-# NLP-ml
+# NLP
 
 
 Natural language processing using machine learning techniques(decision trees, naive bayes,k-nn..)
